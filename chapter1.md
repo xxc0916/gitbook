@@ -6,85 +6,81 @@
 
 这些资源都是网上寻找到的，我尽量给原作者的地址，欢迎大家去拜访大神们。给大神的Github点星。
 
-\*\*（14）\*\* 技术胖的教学视频 最适合新手的教程  http://forum.cocos.com/t/topic/40659
-
-\#\#（28）教你如何把游戏放到网上  http://forum.cocos.com/t/topic/42484
-
 （1）首先是大神们的教程司令部：
 
-http://www.cocoachina.com/bbs/read.php?tid=458895&page=1&toread=1\#tpc    里面内容由浅入深，适合各个层次的人学习，不过可惜是已经很少更新了。
+[http://www.cocoachina.com/bbs/read.php?tid=458895&page=1&toread=1\#tpc](http://www.cocoachina.com/bbs/read.php?tid=458895&page=1&toread=1#tpc)    里面内容由浅入深，适合各个层次的人学习，不过可惜是已经很少更新了。
 
 （2）potato47的教程
 
- http://blog.csdn.net/potato47/article/category/6188026 里面有游戏案例，也有对creator讲解。作者还是个学生，小白好佩服他。
+[http://blog.csdn.net/potato47/article/category/6188026](http://blog.csdn.net/potato47/article/category/6188026) 里面有游戏案例，也有对creator讲解。作者还是个学生，小白好佩服他。
 
 （3）由闭眼就天黑整理编辑，转载请注明：
 
-http://www.byjth.com/CocosCreator/66.html  \| 闭眼就天黑专栏\_个人博客\_技术源于分享。一个完整的小游戏教程，适合和我一样的小白玩家。
+[http://www.byjth.com/CocosCreator/66.html](http://www.byjth.com/CocosCreator/66.html)  \| 闭眼就天黑专栏\_个人博客\_技术源于分享。一个完整的小游戏教程，适合和我一样的小白玩家。
 
-（4）FlappyBird 
+（4）FlappyBird
 
 这个游戏是我学的第一个游戏，里面的中文注释很全&lt;a class="attachment" href="/uploads/default/original/2X/a/ad56d4e5613e6e8102366f4f1d16a01e90395fb9.rar"&gt;FlappyBird01.rar&lt;/a&gt; \(898.0 KB\)
 
-（5）图文教程太极秀 ： http://forum.cocos.com/t/creator/37160   
+（5）图文教程太极秀 ： [http://forum.cocos.com/t/creator/37160](http://forum.cocos.com/t/creator/37160)
 
- http://forum.cocos.com/t/creator/37269
+[http://forum.cocos.com/t/creator/37269](http://forum.cocos.com/t/creator/37269)
 
- http://forum.cocos.com/t/creator/37708 推荐在微信公众号看，比较清晰。
+[http://forum.cocos.com/t/creator/37708](http://forum.cocos.com/t/creator/37708) 推荐在微信公众号看，比较清晰。
 
-（6）三消游戏 欢迎大家去点星   http://forum.cocos.com/t/topic/38306/8
+（6）三消游戏 欢迎大家去点星   [http://forum.cocos.com/t/topic/38306/8](http://forum.cocos.com/t/topic/38306/8)
 
-（7）A星寻路demo  1.1版本没有问题，欢迎大家去点星   http://forum.cocos.com/t/a/36924
+（7）A星寻路demo  1.1版本没有问题，欢迎大家去点星   [http://forum.cocos.com/t/a/36924](http://forum.cocos.com/t/a/36924)
 
- \(8\)打蚊子游戏，暂时找不到作者了，以后把大神的Git地址补上&lt;a class="attachment" href="/uploads/default/original/2X/2/29a8657b6d78d7944fc001ad40f02aa5cf67f114.rar"&gt;wenzi.rar&lt;/a&gt; \(1.9 MB\)
+\(8\)打蚊子游戏，暂时找不到作者了，以后把大神的Git地址补上&lt;a class="attachment" href="/uploads/default/original/2X/2/29a8657b6d78d7944fc001ad40f02aa5cf67f114.rar"&gt;wenzi.rar&lt;/a&gt; \(1.9 MB\)
 
-（9）如何在creator使用重力感应 http://forum.cocos.com/t/creator/39436
+（9）如何在creator使用重力感应 [http://forum.cocos.com/t/creator/39436](http://forum.cocos.com/t/creator/39436)
 
-（10）易语言？ http://tieba.baidu.com/p/4753460794
+（10）易语言？ [http://tieba.baidu.com/p/4753460794](http://tieba.baidu.com/p/4753460794)
 
-（11）点我+1游戏 http://www.cnblogs.com/hjcenry/p/5856952.html
+（11）点我+1游戏 [http://www.cnblogs.com/hjcenry/p/5856952.html](http://www.cnblogs.com/hjcenry/p/5856952.html)
 
-（12）.消除游戏  来自巫布斯  https://github.com/WuBuzi/LBXGame
+（12）.消除游戏  来自巫布斯  [https://github.com/WuBuzi/LBXGame](https://github.com/WuBuzi/LBXGame)
 
-（13） 打飞机游戏，  https://github.com/A123asdo11/aircraft\_war 
+（13） 打飞机游戏，  [https://github.com/A123asdo11/aircraft\_war](https://github.com/A123asdo11/aircraft_war)
 
-（14） 技术胖的教学视频 http://forum.cocos.com/t/cocoscreator/40289
+（14） 技术胖的教学视频 [http://forum.cocos.com/t/cocoscreator/40289](http://forum.cocos.com/t/cocoscreator/40289)
 
-\(15\) 包打听boy 的第一个插件   http://www.allknowboy.com/posts/db81177e/   他的博客里还有其他不错的教程。
+\(15\) 包打听boy 的第一个插件   [http://www.allknowboy.com/posts/db81177e/](http://www.allknowboy.com/posts/db81177e/)   他的博客里还有其他不错的教程。
 
-（16） 贪吃蛇IO 游戏 来自巫布斯  https://github.com/WuBuzi/slitherIO
+（16） 贪吃蛇IO 游戏 来自巫布斯  [https://github.com/WuBuzi/slitherIO](https://github.com/WuBuzi/slitherIO)
 
-（17）技术胖的橡皮怪游戏  http://forum.cocos.com/t/topic/40506
+（17）技术胖的橡皮怪游戏  [http://forum.cocos.com/t/topic/40506](http://forum.cocos.com/t/topic/40506)
 
-（18）熊猫跑酷游戏 http://forum.cocos.com/t/demo-panda-run-creator-demo/40486
+（18）熊猫跑酷游戏 [http://forum.cocos.com/t/demo-panda-run-creator-demo/40486](http://forum.cocos.com/t/demo-panda-run-creator-demo/40486)
 
-（19）黄金矿工游戏   http://forum.cocos.com/t/topic/40605/4
+（19）黄金矿工游戏   [http://forum.cocos.com/t/topic/40605/4](http://forum.cocos.com/t/topic/40605/4)
 
-  \(20\) moba类游戏  http://forum.cocos.com/t/moba-demo/39537/23
+\(20\) moba类游戏  [http://forum.cocos.com/t/moba-demo/39537/23](http://forum.cocos.com/t/moba-demo/39537/23)
 
-（21）自定义遮罩的需求  http://forum.cocos.com/t/mask-polygoncollider/40853
+（21）自定义遮罩的需求  [http://forum.cocos.com/t/mask-polygoncollider/40853](http://forum.cocos.com/t/mask-polygoncollider/40853)
 
-（22）开源三消 http://forum.cocos.com/t/topic/40220
+（22）开源三消 [http://forum.cocos.com/t/topic/40220](http://forum.cocos.com/t/topic/40220)
 
-（23） 贪吃蛇 http://forum.cocos.com/t/lua-cocos-creator/41452
+（23） 贪吃蛇 [http://forum.cocos.com/t/lua-cocos-creator/41452](http://forum.cocos.com/t/lua-cocos-creator/41452)
 
-（24）塔防游戏 https://coding.net/u/haoyuan336/p/cccTowerDefence/git
+（24）塔防游戏 [https://coding.net/u/haoyuan336/p/cccTowerDefence/git](https://coding.net/u/haoyuan336/p/cccTowerDefence/git)
 
-（25）一个cocos creator 主播  http://live.bilibili.com/1999572  直播地址
+（25）一个cocos creator 主播  [http://live.bilibili.com/1999572](http://live.bilibili.com/1999572)  直播地址
 
-\(26\) 一个不错的摇杆demo   https://github.com/dreeye/Joystick
+\(26\) 一个不错的摇杆demo   [https://github.com/dreeye/Joystick](https://github.com/dreeye/Joystick)
 
- （27） 坦克大战  http://forum.cocos.com/t/topic/42340
+（27） 坦克大战  [http://forum.cocos.com/t/topic/42340](http://forum.cocos.com/t/topic/42340)
 
-（28）教你如何把游戏放到网上  http://forum.cocos.com/t/topic/42484
+（28）教你如何把游戏放到网上  [http://forum.cocos.com/t/topic/42484](http://forum.cocos.com/t/topic/42484)
 
-\(29\) 个人游戏框架 https://github.com/tonyshow/tonyCocosCreatorDamo
+\(29\) 个人游戏框架 [https://github.com/tonyshow/tonyCocosCreatorDamo](https://github.com/tonyshow/tonyCocosCreatorDamo)
 
-\(30\) TableView  https://github.com/a1076559139/creator\_tableView\#具体查看本示例
+\(30\) TableView  [https://github.com/a1076559139/creator\_tableView\#具体查看本示例](https://github.com/a1076559139/creator_tableView#具体查看本示例)
 
-（31）贪吃蛇联网demo  http://forum.cocos.com/t/demo/43067
+（31）贪吃蛇联网demo  [http://forum.cocos.com/t/demo/43067](http://forum.cocos.com/t/demo/43067)
 
-（32）分享一个脚本热更新解决方案  http://forum.cocos.com/t/topic/43441
+（32）分享一个脚本热更新解决方案  [http://forum.cocos.com/t/topic/43441](http://forum.cocos.com/t/topic/43441)
 
-（33）一个多人在线六边形扫雷游戏  http://forum.cocos.com/t/topic/43994
+（33）一个多人在线六边形扫雷游戏  [http://forum.cocos.com/t/topic/43994](http://forum.cocos.com/t/topic/43994)
 
