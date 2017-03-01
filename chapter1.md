@@ -18,9 +18,9 @@
 
 [http://www.byjth.com/CocosCreator/66.html](http://www.byjth.com/CocosCreator/66.html)  \| 闭眼就天黑专栏\_个人博客\_技术源于分享。一个完整的小游戏教程，适合和我一样的小白玩家。
 
-（4）FlappyBird
+~~（4）FlappyBird~~
 
-这个游戏是我学的第一个游戏，里面的中文注释很全&lt;a class="attachment" href="/uploads/default/original/2X/a/ad56d4e5613e6e8102366f4f1d16a01e90395fb9.rar"&gt;FlappyBird01.rar&lt;/a&gt; \(898.0 KB\)
+~~这个游戏是我学的第一个游戏，里面的中文注释很全&lt;a class="attachment" href="/uploads/default/original/2X/a/ad56d4e5613e6e8102366f4f1d16a01e90395fb9.rar"&gt;FlappyBird01.rar&lt;/a&gt; \(898.0 KB\)~~
 
 （5）图文教程太极秀 ： [http://forum.cocos.com/t/creator/37160](http://forum.cocos.com/t/creator/37160)
 
@@ -32,9 +32,9 @@
 
 （7）A星寻路demo  1.1版本没有问题，欢迎大家去点星   [http://forum.cocos.com/t/a/36924](http://forum.cocos.com/t/a/36924)
 
-\(8\)打蚊子游戏，暂时找不到作者了，以后把大神的Git地址补上&lt;a class="attachment" href="/uploads/default/original/2X/2/29a8657b6d78d7944fc001ad40f02aa5cf67f114.rar"&gt;wenzi.rar&lt;/a&gt; \(1.9 MB\)
+~~\(8\)打蚊子游戏，暂时找不到作者了，以后把大神的Git地址补上&lt;a class="attachment" href="/uploads/default/original/2X/2/29a8657b6d78d7944fc001ad40f02aa5cf67f114.rar"&gt;wenzi.rar&lt;/a&gt; \(1.9 MB\)~~
 
-（9）如何在creator使用重力感应 [http://forum.cocos.com/t/creator/39436](http://forum.cocos.com/t/creator/39436)
+~~（9）如何在creator使用重力感应 ~~[~~http://forum.cocos.com/t/creator/39436~~](http://forum.cocos.com/t/creator/39436)
 
 （10）易语言？ [http://tieba.baidu.com/p/4753460794](http://tieba.baidu.com/p/4753460794)
 
