@@ -34,7 +34,7 @@
 
 ~~\(8\)打蚊子游戏，暂时找不到作者了，以后把大神的Git地址补上&lt;a class="attachment" href="/uploads/default/original/2X/2/29a8657b6d78d7944fc001ad40f02aa5cf67f114.rar"&gt;wenzi.rar&lt;/a&gt; \(1.9 MB\)~~
 
-~~（9）如何在creator使用重力感应 ~~[~~http://forum.cocos.com/t/creator/39436~~](http://forum.cocos.com/t/creator/39436)
+~~（9）如何在creator使用重力感应 ~~\[~~[http://forum.cocos.com/t/creator/39436~~\]\(http://forum.cocos.com/t/creator/39436](http://forum.cocos.com/t/creator/39436~~]\(http://forum.cocos.com/t/creator/39436)\)
 
 （10）易语言？ [http://tieba.baidu.com/p/4753460794](http://tieba.baidu.com/p/4753460794)
 
@@ -83,4 +83,14 @@
 （32）分享一个脚本热更新解决方案  [http://forum.cocos.com/t/topic/43441](http://forum.cocos.com/t/topic/43441)
 
 （33）一个多人在线六边形扫雷游戏  [http://forum.cocos.com/t/topic/43994](http://forum.cocos.com/t/topic/43994)
+
+\(34\) 别踩白块   [http://forum.cocos.com/t/topic/44699](http://forum.cocos.com/t/topic/44699)
+
+ \(35\) 开源棋牌教程 [ https://github.com/gjh1987/cccGame](https://github.com/gjh1987/cccGame)
+
+（36）\[新手向：用Creator教你作大转盘\]\(http://forum.cocos.com/t/creator/45183\)
+
+   \(37\)\[小游戏整理-qbkivlin\]\(http://forum.cocos.com/t/qbkivlin/45186\)
+
+（38）斗地主联网游戏源码 ： [ https://github.com/dixonzhang/cocos-doudizhu](https://github.com/dixonzhang/cocos-doudizhu)
 
